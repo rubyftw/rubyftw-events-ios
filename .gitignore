@@ -1,0 +1,7 @@
+*.swp
+*.orig
+.DS_Store
+*.storyboardc
+build
+.idea
+.repl_history
